@@ -1,6 +1,6 @@
 ## Hi there 👋
-Oi, meu nome é Ruth Carvalho!
-Sou estudante de BTI na UFERSA.
+Oii, me chamo Ruth Carvalho.
+Sou estudante de BTI na UFERSA!
 <!--
 **ruthcrvlh0/ruthcrvlh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
