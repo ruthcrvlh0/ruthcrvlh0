@@ -7,7 +7,7 @@ Sou técnica em Redes de Computadores e, atualmente, estudante de Bacharelado In
 ## 👩‍💻 Sobre Mim
 
 🎓 Estudante de Bacharelado Interdisciplinar em Tecnologia da Informação na **UFERSA**.<br>
-🌐 Técnica em Redes de Computadores (ampla visão de infraestrutura, protocolos e conectividade).<br>
+🌐 Técnica em Redes de Computadores.<br>
 🔍 Pesquisadora ativa no **GpsICS** (Grupo de Pesquisa em Sistemas Críticos de Segurança).
 
 ---
